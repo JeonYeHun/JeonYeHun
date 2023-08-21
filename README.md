@@ -23,7 +23,7 @@ coding0206@naver.com
 
 ## Projects
 
-- [Project 1](https://github.com/JeonYeHun/seb44_main_031)
-- [Project 2](https://github.com/codestates-seb/seb44_pre_031)
+- [Project_Petmily](https://github.com/codestates-seb/seb44_main_031)
+- [Project_Clone Stack over flow](https://github.com/codestates-seb/seb44_pre_031)
 
 
