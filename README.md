@@ -23,7 +23,7 @@ coding0206@naver.com
 
 ## Projects
 
-- [Project 1](https://github.com/yeahhun/project1)
-- [Project 2](https://github.com/yeahhun/project2)
+- [Project 1](https://github.com/JeonYeHun/seb44_main_031)
+- [Project 2](https://github.com/codestates-seb/seb44_pre_031)
 
-Feel free to explore my repositories and let's connect!
+
