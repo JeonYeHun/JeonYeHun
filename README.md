@@ -8,7 +8,12 @@
   <img src="https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/Styled%20Components-%23DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components"/>
   <img src="https://img.shields.io/badge/Typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
+  <img src="https://img.shields.io/badge/Redux-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+  <img src="https://img.shields.io/badge/Recoil-%238B80F9.svg?&style=for-the-badge&logo=recoil&logoColor=white" alt="Recoil"/>
+  <img src="https://img.shields.io/badge/Axios-%2338A169.svg?&style=for-the-badge&logo=axios&logoColor=white" alt="Axios"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React"/>
 </p>
+
 
 ## About Me
 
