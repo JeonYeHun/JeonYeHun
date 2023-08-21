@@ -15,11 +15,6 @@
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React"/>
 </p>
 
-
-## About Me
-
-I'm a passionate developer who loves working with Javascript, CSS, Styled Components, and Typescript. I enjoy creating beautiful and functional web applications.
-
 ## Contact Me
 
 coding0206@naver.com  
