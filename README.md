@@ -22,7 +22,9 @@ I'm a passionate developer who loves working with Javascript, CSS, Styled Compon
 
 ## Contact Me
 
-You can reach me via email at yeahhun@example.com or connect with me on [LinkedIn](https://www.linkedin.com/in/yeahhun).
+coding0206@naver.com  
+</br>
+📞 Phone : +82 10-3790-4228
 
 ## Projects
 
